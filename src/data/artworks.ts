@@ -163,7 +163,8 @@ const animeTitleMap: Record<number, string> = {
   32: 'ピアノちゃん',
   33: 'ポチャッコ',
   34: 'ポムポムプリン',
-  35: 'マイメロディ'
+  35: 'マイメロディ',
+  36: 'スンスン'
 };
 
 const finalArtworks = [];
