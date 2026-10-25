@@ -1,0 +1,1 @@
+var e=`/oekaki-moka-lab/assets/complete-rzDCb6fj.mp3`;export{e as default};
